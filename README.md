@@ -1,7 +1,7 @@
 # INSTALLATION
 1.Unzip the downloaded archive
 
-2.Copy and paste corporate-dashboard-laravel folder in your projects folder. Rename the folder to your project's name
+2.Copy and paste solesprint folder in your projects folder. Rename the folder to your project's name
 
 3.In your terminal run composer install
 
